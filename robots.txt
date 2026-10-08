@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SITE_URL/sitemap.xml
+Sitemap: https://wakuwaku-lphp.github.io/kokoro-medical/sitemap.xml
